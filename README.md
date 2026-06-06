@@ -72,6 +72,7 @@ experiments/         各实验报告
   p10-motif-style-synthesis.md
 synthesis/           跨实验综合
   p05-p07-common-conclusions.md
+  p08-p10-common-conclusions.md
 ```
 
 ## 协议
