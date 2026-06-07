@@ -68,7 +68,7 @@ laboratory/
 ├── story/             叙事写作辅助管线
 │   └── p18-character-driven-plot-inference.md
 └── review/            模拟读者系统
-    └── p16-reader.md
+    └── reader.md
 
 示例数据见 examples/default/examples/（同名管线目录）
 ```
